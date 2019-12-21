@@ -1,6 +1,6 @@
 ### Chapter Information
 
-* Chapter Region: Ottawa, ON, Canada
+* Chapter Region: Canada
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Ottawa/)
