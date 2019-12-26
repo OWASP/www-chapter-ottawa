@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Ottawa
 tags: 
 level: 0
-region: Canada
+region: North America
 
 ---
 
