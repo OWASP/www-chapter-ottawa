@@ -5,6 +5,7 @@ title: OWASP Ottawa
 tags: 
 level: 0
 region: North America
+meetup-group: OWASP-Ottawa
 
 ---
 
@@ -25,6 +26,8 @@ an idea. You can submit an idea at any point in time at the following link:
 [OWASP Ottawa Continuous Call for Speakers](https://sessionize.com/owasp-ottawa-ccfs/)
 
 For updates, events, membership; please visit our meetup page: [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/)
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Connect with us on Social Media and on Slack:
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Heroku link](https://owaspottawa.herokuapp.com/)
