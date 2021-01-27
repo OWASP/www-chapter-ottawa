@@ -23,7 +23,7 @@ We provide a mix of infosec rockstar talks,
 hands on training sessions, and special interest discussion groups. We
 are always looking for new ideas for events so let us know if you have
 an idea. You can submit an idea at any point in time at the following link:
-[OWASP Ottawa Continuous Call for Speakers](https://sessionize.com/owasp-ottawa-ccfs/)
+[OWASP Ottawa Continuous Call for Speakers](https://sessionize.com/owasp-ottawa-continuous-call-for-speaker/)
 
 For updates, events, membership; please visit our meetup page: [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/)
 
