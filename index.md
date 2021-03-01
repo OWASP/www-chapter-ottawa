@@ -5,6 +5,8 @@ title: OWASP Ottawa
 tags: 
 level: 0
 region: North America
+country: Canada
+postal-code: K1A 0A6
 meetup-group: OWASP-Ottawa
 
 ---
