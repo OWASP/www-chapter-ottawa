@@ -13,6 +13,8 @@ meetup-group: OWASP-Ottawa
 
 ## Your Local Chapter
 
+![OWASP Ottawa Image](https://github.com/OWASP/www-chapter-ottawa/assets/images/OWASPOttawa-meetup-image.png?raw=true)
+
 Hi Ottawa, welcome to your local OWASP chapter\! We are a place to come
 and meet local developers and information security professionals, share
 ideas, and learn. 
@@ -20,6 +22,9 @@ ideas, and learn.
 We try to hold a meeting at least once a month at two different locations in Ottawa.
 * Downtown - Shopify (Cody's Cafe, 150 Elgin Street, 6th floor) 
 * West End - Trend Micro (40 Hines Rd, 1st Floor)
+
+During Covid our meetings are online. Consult the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. 
+For past meetings checkout our [YouTube channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw): 
 
 We provide a mix of infosec rockstar talks,
 hands on training sessions, and special interest discussion groups. We
