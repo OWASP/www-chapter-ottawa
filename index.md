@@ -13,7 +13,7 @@ meetup-group: OWASP-Ottawa
 
 ## Your Local Chapter
 
-![OWASP Ottawa Image](https://github.com/OWASP/www-chapter-ottawa/assets/images/OWASPOttawa-meetup-image.png?raw=true)
+![OWASP Ottawa Image](assets/images/OWASPOttawa-meetup-image.png?raw=true)
 
 Hi Ottawa, welcome to your local OWASP chapter\! We are a place to come
 and meet local developers and information security professionals, share
