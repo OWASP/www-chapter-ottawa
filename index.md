@@ -34,7 +34,7 @@ an idea. You can submit an idea at any point in time at the following link:
 
 For updates, events, membership; please visit our meetup page: [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/)
 
-{% include chapter_events.html group=page.meetup-group %};
+{% include chapter_events.html group=page.meetup-group %}
 
 
 Connect with us on Social Media and on Slack:
