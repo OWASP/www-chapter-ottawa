@@ -15,14 +15,17 @@ meetup-group: OWASP-Ottawa
 
 ![OWASP Ottawa Image](assets/images/OWASPOttawa-meetup-image.png?raw=true)
 
-Hi Ottawa, welcome to your local OWASP chapter\! We are a place to come
+Hello Ottawa and the World, Welcome to your OWASP Ottawa chapter\! We are a place to come
 and meet local developers and information security professionals, share
 ideas, and learn.
 
-During COVID our meetings are online. Consult the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. 
-For past meetings checkout our [YouTube channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw).
+Special Notice:
 
-We provide a mix of infosec rockstar talks,
+Due to the COVID-19 (Coronavirus) pandemic our events will continue online on our YouTube channel. Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw). Set a reminder and you’ll get a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
+
+Consult the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. 
+
+We provide a mix of infosec  talks,
 hands on training sessions, and special interest discussion groups. We
 are always looking for new ideas for events so let us know if you have
 an idea. You can submit an idea at any point in time at the following link:
