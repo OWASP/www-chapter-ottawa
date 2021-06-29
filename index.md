@@ -20,6 +20,9 @@ Hello Ottawa and the World, Welcome to your OWASP Ottawa chapter\!<br/>
 We are a place to come and meet local developers and information security professionals, share
 ideas, and learn.<br/>
 
+## OWASP Ottawa is proudly celebrating OWASP's 20th Anniversary
+[![OWASP 20th Anniversary Image](assets/images/OWASP20.png)](https://20thanniversary.owasp.org/)
+
 ### Special Notice:
 
 Due to the COVID-19 (Coronavirus) pandemic our events will continue online on our [YouTube channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw). You can subscribe and set a reminder and you’ll get a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
