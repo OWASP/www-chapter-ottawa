@@ -21,7 +21,7 @@ We are a place to come and meet local developers and information security profes
 ideas, and learn.<br/>
 
 ## OWASP Ottawa is proudly celebrating OWASP's 20th Anniversary
-[![OWASP 20th Anniversary Image](assets/images/OWASP20.png)](https://20thanniversary.owasp.org/)
+[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 ### Special Notice:
 
