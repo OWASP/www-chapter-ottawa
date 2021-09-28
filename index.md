@@ -7,7 +7,7 @@ level: 0
 region: North America
 country: Canada
 postal-code: K1A 0A6
-pitch: OWASP chapter serving Canada's national capitol region.
+pitch: OWASP chapter serving Canada's national capital region.
 meetup-group: OWASP-Ottawa
 
 ---
