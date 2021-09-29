@@ -7,6 +7,7 @@ level: 0
 region: North America
 country: Canada
 postal-code: K1A 0A6
+pitch: OWASP chapter serving Canada's national capital region.
 meetup-group: OWASP-Ottawa
 
 ---
@@ -19,9 +20,6 @@ Hello Ottawa and the World, Welcome to your OWASP Ottawa chapter\!<br/>
 
 We are a place to come and meet local developers and information security professionals, share
 ideas, and learn.<br/>
-
-## OWASP Ottawa is proudly celebrating OWASP's 20th Anniversary
-[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 ### Special Notice:
 
