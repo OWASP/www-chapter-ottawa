@@ -7,7 +7,7 @@ level: 0
 region: North America
 country: Canada
 postal-code: K1A 0A6
-pitch: OWASP chapter serving Canada's national capital region.
+pitch: OWASP Chapter serving Canada's National Capital Region.
 meetup-group: OWASP-Ottawa
 
 ---
@@ -16,14 +16,14 @@ meetup-group: OWASP-Ottawa
 
 ![OWASP Ottawa Image](assets/images/OWASPOttawa-meetup-image.png?raw=true)
 
-Hello Ottawa and the World, Welcome to your OWASP Ottawa chapter\!<br/> 
+Hello Ottawa and the World, Welcome to your OWASP Ottawa Chapter\!<br/> 
 
 We are a place to come and meet local developers and information security professionals, share
 ideas, and learn.<br/>
 
 ### Special Notice:
 
-Due to the COVID-19 (Coronavirus) pandemic our events will continue online on our [YouTube channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw). You can subscribe and set a reminder and you’ll get a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
+We will be returning to in-person meetups in 2023! Check our Meetup Page for details of future meetups. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
 
 Consult the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. 
 
@@ -37,11 +37,10 @@ For updates, events, membership; please visit our meetup page: [OWASP Ottawa Mee
 
 {% include chapter_events.html group=page.meetup-group %}
 
-During more 'regular' times, we try to hold a meeting at least once a month at two different locations in Ottawa.
-* Downtown - Shopify (Cody's Cafe, 150 Elgin Street, 6th floor) 
-* West End - Trend Micro (40 Hines Rd, 1st Floor)
+
 
 Connect with us on Social Media and on Slack:
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Heroku link](https://owaspottawa.herokuapp.com/)
 * Follow us on Twitter: [@OWASP_Ottawa](https://twitter.com/OWASP_Ottawa)
+* Follow us on Mastodon: [@OWASP_Ottawa@infosec.exchange](https://infosec.exchange/@OWASP_Ottawa)
 
