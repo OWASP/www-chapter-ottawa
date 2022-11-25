@@ -1,6 +1,7 @@
 ### Social Links
 * [OWASP Ottawa Meetup page](https://www.meetup.com/OWASP-Ottawa/)
 * [Follow @OWASP_Ottawa on Twitter](https://twitter.com/OWASP_Ottawa)
+* [Follow @OWASP_Ottawa@infosec.exchange on Mastodon](https://infosec.exchange/@OWASP_Ottawa)
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Heroku link](https://owaspottawa.herokuapp.com/)
   
 ### Meetup Recordings
