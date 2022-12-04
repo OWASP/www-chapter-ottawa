@@ -21,6 +21,8 @@ meetup-group: OWASP-Ottawa
 We are a place to come and meet local developers and information security professionals, share
 ideas, and learn.<br/>
 
+You will find us informal, approachable, and thankful for your assistance. We encourage and welcome beginners. We are an open, tolerant, and inclusive organisation that accepts all races, genders, creeds, abilities, things, and ideas with the exception of one - Hate. Hate has no home at OWASP Ottawa.<br/>
+
 ### Special Notice:
 
 We will be returning to in-person meetups in 2023! Check our Meetup Page for details of future meetups. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
