@@ -25,9 +25,10 @@ ideas, and learn.<br/>
 
 ### Special Notice:
 
-We will be returning to in-person meetups in 2023! Check our Meetup Page for details of future meetups. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter etc.) as we are closer to the date.
+We will be returning to in-person meetups in 2023! Check [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter, mastodon etc.) as we are closer to the date.
 
-Masking it strongly encouraged and we will be monitoring the situation moving forward. Check meetup event details for any updates. Consult the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. 
+> Based on the [Ottawa Public Health Guidelines](https://www.ottawapublichealth.ca/en/public-health-topics/masks.aspx) we strongly recommend that attendees wear a mask while not presenting. This will reduce the risk of transmission and protect members who may have compromised immune systems. 
+
 
 ## What we do
 
