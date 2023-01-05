@@ -25,18 +25,18 @@ ideas, and learn.<br/>
 
 ### Special Notice:
 
-We will be returning to in-person meetups in 2023! Check [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter, mastodon etc.) as we are closer to the date.
+We will be returning to in-person meetups in 2023! Check the [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/) page for details. We will continue to live-stream our meetups at our [YouTube channel](https://www.youtube.com/@OWASP_Ottawa). You can subscribe and set a reminder and you’ll receive a notification as soon as we go live! We will post information here and on all our other medias (email, twitter, mastodon etc.) as we are closer to the date.
 
 > Based on the [Ottawa Public Health Guidelines](https://www.ottawapublichealth.ca/en/public-health-topics/masks.aspx) we strongly recommend that attendees wear a mask while not presenting. This will reduce the risk of transmission and protect members who may have compromised immune systems. 
 
 
 ## What we do
 
-We provide a mix of infosec  talks,
+We provide a mix of InfoSec  talks,
 hands on training sessions, and special interest discussion groups. We
 are always looking for new ideas for events so let us know if you have
 an idea. You can submit an idea at any point in time at the following link:
-[OWASP Ottawa Continuous Call for Speakers](https://sessionize.com/owasp-ottawa-continuous-call-for-speaker/).<br/>
+[OWASP Ottawa Continuous Call for Speakers 2023](https://sessionize.com/owasp-ottawa-continuous-call-for-speakers2023/).<br/>
 
 For updates, events, membership; please visit our meetup page: [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/)<br/>
 
