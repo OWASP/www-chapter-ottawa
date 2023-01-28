@@ -6,3 +6,4 @@ env
 .settings
 .project
 _site/
+.DS_Store
