@@ -1,4 +1,4 @@
 ### Leaders
 
 * [Garth Boyd](mailto:garth.boyd@owasp.org)
-* [Melody Kelly](mailto:melody@mello.moe)
+* [Melody Kelly](mailto:melody.kelly@owasp.org)
