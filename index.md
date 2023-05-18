@@ -45,7 +45,7 @@ For updates, events, membership; please visit our meetup page: [OWASP Ottawa Mee
 
 
 Connect with us on Social Media and on Slack:
-* Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Heroku link](https://owaspottawa.herokuapp.com/)
+* Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Slack link](https://join.slack.com/t/owaspottawa/shared_invite/zt-1to3abst2-uDTXE_jEp_ywp0H7fP2Lbw)
 * Follow us on Twitter: [@OWASP_Ottawa](https://twitter.com/OWASP_Ottawa)
 * Follow us on Mastodon: [@OWASP_Ottawa@infosec.exchange](https://infosec.exchange/@OWASP_Ottawa)
 
