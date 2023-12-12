@@ -50,3 +50,6 @@ Connect with us on Social Media and on Slack:
 * Follow us on Mastodon: [@OWASP_Ottawa@infosec.exchange](https://infosec.exchange/@OWASP_Ottawa)
 * Follow us on Bluesky: [@owaspottawa.bsky.social](https://bsky.app/profile/owaspottawa.bsky.social)
 * Follow us on LinkedIn: [OWASP Ottawa LinkedIN page](https://www.linkedin.com/company/owasp-ottawa)
+
+Watch our past events:
+* [OWASP Ottawa YouTube Channel](https://www.youtube.com/@OWASP_Ottawa)
