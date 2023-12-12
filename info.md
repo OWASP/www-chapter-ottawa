@@ -7,7 +7,7 @@
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Slack link](https://join.slack.com/t/owaspottawa/shared_invite/zt-1to3abst2-uDTXE_jEp_ywp0H7fP2Lbw)
   
 ### Meetup Recordings
-* [YouTube Channel](https://www.youtube.com/channel/UCxSU-KvNmYusZEq6v4YK5Lw)
+* [YouTube Channel](https://www.youtube.com/@OWASP_Ottawa)
 
 ### Presentations
 * [Sessionize Link](https://sessionize.com/owasp-ottawa-continuous-call-for-speakers2023/) to submit your presentation ideas &#128161; 
