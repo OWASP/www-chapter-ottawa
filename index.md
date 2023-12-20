@@ -26,7 +26,7 @@ OWASP Ottawa events are completely free. We will never charge for access to any 
 
 ## What We Do
 
-We provide a mix of InfoSec talks, hands on training sessions, and special interest discussion groups. We hold monthly meetups at the STEM Building of the University of Ottawa. We meet quarterly at the the Kanata offices of Trend Micro. We hold occassional workshops on a variety of security topics.
+We provide a mix of InfoSec talks, hands on training sessions, and special interest discussion groups. We hold monthly meetups at the STEM Building of the University of Ottawa. We hold occassional workshops on a variety of security topics.
 
 > We are always looking for new ideas for events so let us know if you have an idea.
 
