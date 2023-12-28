@@ -10,5 +10,5 @@
 * [YouTube Channel](https://www.youtube.com/@OWASP_Ottawa)
 
 ### Presentations
-* [Sessionize Link](https://sessionize.com/owasp-ottawa-continuous-call-for-speakers2023/) to submit your presentation ideas &#128161; 
+* [Talk Submission Form 2024](https://forms.gle/KKGk33Xr9rkUhaNr5) to submit your presentation ideas &#128161; 
 * [OWASP Ottawa Presentation Template](assets/images/OWASP%20Ottawa%20Template-2021.pptx)
