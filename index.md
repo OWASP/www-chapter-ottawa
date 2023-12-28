@@ -31,7 +31,7 @@ We provide a mix of InfoSec talks, hands on training sessions, and special inter
 > We are always looking for new ideas for events so let us know if you have an idea.
 
 You can submit an idea at any point in time at the following link:
-[OWASP Ottawa Continuous Call for Speakers 2023](https://sessionize.com/owasp-ottawa-continuous-call-for-speakers2023/).<br/>
+[OWASP Ottawa Speaker Submission Form 2024](https://forms.gle/KKGk33Xr9rkUhaNr5).<br/>
 
 For updates, events, membership; please visit our meetup page: [OWASP Ottawa Meetup](https://www.meetup.com/OWASP-Ottawa/)<br/>
 
