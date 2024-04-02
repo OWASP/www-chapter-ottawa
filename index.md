@@ -38,6 +38,7 @@ For updates, events, membership; please visit our meetup page: [OWASP Ottawa Mee
 ## Volunteers
 
 OWASP Ottawa would not function without the generous support of time and effort from our volunteers. If you would like to get more involved we would love to have your help.
+![OWASP Ottawa CTF Volunteers 2024](assets/images/OWASPOttawaCTF2024Volunteers.png?raw=true)
 
 > Contact us on any of our socials or Slack if you wish to volunteer.
 
