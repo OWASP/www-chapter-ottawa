@@ -44,7 +44,7 @@ OWASP Ottawa would not function without the generous support of time and effort 
 
 ## Chapter Supporters
 
-| ![UofO Logo](assets/images/UofOEngineeringLogo.png) | [Rewind Logo](assets/images/rewindlogo.png) |
+![UofO Logo](assets/images/UofOEngineeringLogo.png)  ![Rewind Logo](assets/images/rewindlogo.png)
 
 ## Currently Scheduled Events
 
