@@ -2,11 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Ottawa
-tags: 
-level: 0
+site_side: true
+tags: ottawa
+level: 2
 region: North America
 country: Canada
 postal-code: K1A 0A6
+currency: cad
 pitch: OWASP Chapter serving Canada's National Capital Region.
 meetup-group: OWASP-Ottawa
 
