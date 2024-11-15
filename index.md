@@ -42,6 +42,10 @@ OWASP Ottawa would not function without the generous support of time and effort 
 
 > Contact us on any of our socials or Slack if you wish to volunteer.
 
+## Chapter Supporters
+
+| ![UofO Logo](assets/images/UofOEngineeringLogo.png) | [Rewind Logo](assets/images/rewindlogo.png) |
+
 ## Currently Scheduled Events
 
 {% include chapter_events.html group=page.meetup-group %}
