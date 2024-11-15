@@ -43,11 +43,11 @@ YouTube Live Stream Link: TBA
 * DevSecOps Worst Practices with Tanya Janca.
 
 ### Abstract:
-A Brief Overview of the OWASP Top 10 with Gabriel Kronfeld.
+**A Brief Overview of the OWASP Top 10 with Gabriel Kronfeld**
 The OWASP Top 10 reveals the most critical security vulnerabilities facing modern web applications. This talk will walk attendees through each item on the 2021 list, from broken access control to server-side request forgery. Each vulnerability is explored in detail—understanding how it works, why it’s dangerous, and what’s needed to prevent it. With real examples to bring these threats to life, this session is an accessible introduction for beginners and a useful refresher for seasoned practitioners.
 Join us to get a solid foundation in web security essentials.
 
-DevSecOps Worst Practices with Tanya Janca.
+**DevSecOps Worst Practices with Tanya Janca**
 Quite often when we read best practices we are told ‘what’ to do, but not the ‘why’. When we are told to ensure there are no false positives in the pipeline, the reason seems obvious, but not every part of DevOps is that intuitive, and not all ‘best practices’ make sense on first blush. Let’s explore tried, tested, and failed methods, and then flip them on their head, so we know not only what to do to avoid them, but also why it is important to do so, with these DevSecOps WORST practices.
 
 ### Speakers:
