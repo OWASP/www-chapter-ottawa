@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday November 20th, 2024
+## Wednesday February 19th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,18 +39,18 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* A Brief Overview of the OWASP Top 10 with Gabriel Kronfeld.
-* DevSecOps Worst Practices with Tanya Janca.
+* Securing the Industrial Frontier: AI-Powered Defenses for OT/ICS Cybersecurity with Kay Oblassi
+* Are We Leak-Free Yet? Securing Production App Secrets with Robert Babaev
 
 ### Abstract:
-**A Brief Overview of the OWASP Top 10 with Gabriel Kronfeld**
-The OWASP Top 10 reveals the most critical security vulnerabilities facing modern web applications. This talk will walk attendees through each item on the 2021 list, from broken access control to server-side request forgery. Each vulnerability is explored in detail—understanding how it works, why it’s dangerous, and what’s needed to prevent it. With real examples to bring these threats to life, this session is an accessible introduction for beginners and a useful refresher for seasoned practitioners.
-Join us to get a solid foundation in web security essentials.
+**Securing the Industrial Frontier: AI-Powered Defenses for OT/ICS Cybersecurity with Kay Oblassi**
+As OT/ICS systems become increasingly vulnerable to cyber threats, AI-powered defenses offer a promising solution. This presentation explores the intersection of AI and OT/ICS, discussing the benefits and challenges of implementing AI-powered defenses in industrial control systems.
 
-**DevSecOps Worst Practices with Tanya Janca**
-Quite often when we read best practices we are told ‘what’ to do, but not the ‘why’. When we are told to ensure there are no false positives in the pipeline, the reason seems obvious, but not every part of DevOps is that intuitive, and not all ‘best practices’ make sense on first blush. Let’s explore tried, tested, and failed methods, and then flip them on their head, so we know not only what to do to avoid them, but also why it is important to do so, with these DevSecOps WORST practices.
+**Are We Leak-Free Yet? Securing Production App Secrets with Robert Babaev**
+A month or so ago, I was fiddling with ways of getting secret values (API keys, database URLs, etc.) into an application without leaking them. This talk will go over that journey, and how complicated it actually can be to get zero-leak secret injection in web apps, namely those using Docker Compose and Docker Swarm. Considerations for client-side secrets, server-side secrets, and more! Demos include showcasing source code, and possibly spooling up Docker containers and/or building web applications on a local environment. Likely pre-recorded.
 
 ### Speakers:
-**Gabriel Kronfeld** is a graduate from the University of Ottawa with a degree in Computer Engineering. With experience spanning backend programming, DevOps, system administration, and database management, Gabriel has collaborated with various Ottawa-based companies on technical projects. Although new to cybersecurity, he brings a strong technical foundation and is keen to expand his knowledge in this field. Outside of work, Gabriel enjoys cycling, photography, and building drones as hands-on hobbies.
+**Kay Oblassi** is a seasoned professional with over a decade of experience in financial services, consulting, and Cyber GRC. He is the Founder of Aidrome Inc., an IT firm that aims to leverage AI for digital transformation across various sectors, including ICS/OT Cybersecurity.
+based companies on technical projects. Although new to cybersecurity, he brings a strong technical foundation and is keen to expand his knowledge in this field. Outside of work, Gabriel enjoys cycling, photography, and building drones as hands-on hobbies.
 
-**Tanya Janca**, aka SheHacksPurple, is the best-selling author of 'Alice and Bob Learn Secure Coding', 'Alice and Bob Learn Application Security’ and ‘Cards Against AppSec'. Over her 28-year IT career she has won countless awards (including OWASP Lifetime Distinguished Member and Hacker of the Year), spoken all over the planet, and is a prolific blogger. Tanya has trained thousands of software developers and IT security professionals, via her online academies (We Hack Purple and Semgrep Academy), and her live training programs. Having performed counter-terrorism, led security for the 52nd Canadian general election, developed or secured countless applications, Tanya Janca is widely considered an international authority on the security of software. Tanya currently leads education and community for Semgrep.
+**Robert Babaev** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci. Robert also regularly engages in side projects including CourseFull, an app built to help students track their academic goals without the guesswork.
