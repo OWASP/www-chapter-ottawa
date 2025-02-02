@@ -1,6 +1,5 @@
 ### Social Links
 * [OWASP Ottawa Meetup Page](https://www.meetup.com/OWASP-Ottawa/)
-* [Follow us on Twitter](https://twitter.com/OWASP_Ottawa)
 * [Follow us on Mastodon](https://infosec.exchange/@OWASP_Ottawa)
 * [Follow us on Bluesky](https://bsky.app/profile/owaspottawa.bsky.social)
 * [Follow us on LinkedIN](https://www.linkedin.com/company/owasp-ottawa)
