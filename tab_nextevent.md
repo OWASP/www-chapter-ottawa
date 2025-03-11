@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday February 19th, 2025
+## Wednesday March 19th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,18 +39,9 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* Securing the Industrial Frontier: AI-Powered Defenses for OT/ICS Cybersecurity with Kay Oblassi
-* Are We Leak-Free Yet? Securing Production App Secrets with Robert Babaev
+* From SBOMs to xBOMs to Transperency: Problems Solvable by CycloneDB
 
 ### Abstract:
-**Securing the Industrial Frontier: AI-Powered Defenses for OT/ICS Cybersecurity with Kay Oblassi**
-As OT/ICS systems become increasingly vulnerable to cyber threats, AI-powered defenses offer a promising solution. This presentation explores the intersection of AI and OT/ICS, discussing the benefits and challenges of implementing AI-powered defenses in industrial control systems.
-
-**Are We Leak-Free Yet? Securing Production App Secrets with Robert Babaev**
-A month or so ago, I was fiddling with ways of getting secret values (API keys, database URLs, etc.) into an application without leaking them. This talk will go over that journey, and how complicated it actually can be to get zero-leak secret injection in web apps, namely those using Docker Compose and Docker Swarm. Considerations for client-side secrets, server-side secrets, and more! Demos include showcasing source code, and possibly spooling up Docker containers and/or building web applications on a local environment. Likely pre-recorded.
-
+We will discuss problems that are currently solvable by OWASP CycloneDX and its ecosystem (Vers, Purl, TEA) as well as use-cases that either don't have solutions or have inefficient solutions. The talk would include a brief demonstration of OWASP Dependency-Track showing real-world SBOM data from Reliza's open source Rebom project.
 ### Speakers:
-**Kay Oblassi** is a seasoned professional with over a decade of experience in financial services, consulting, and Cyber GRC. He is the Founder of Aidrome Inc., an IT firm that aims to leverage AI for digital transformation across various sectors, including ICS/OT Cybersecurity.
-based companies on technical projects. Although new to cybersecurity, he brings a strong technical foundation and is keen to expand his knowledge in this field. Outside of work, Gabriel enjoys cycling, photography, and building drones as hands-on hobbies.
-
-**Robert Babaev** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci. Robert also regularly engages in side projects including CourseFull, an app built to help students track their academic goals without the guesswork.
+**Pavel Shukhman** is the Co-Founder and CEO of Reliza. He leads company efforts in building a supply chain security system managing software and hardware metadata, including xBOMs, strict versioning, identification and various attachments. Previously, Pavel for more than ten years was leading software teams and supporting organizations in implementation of DevOps and DevSecOps best practices. He holds a Master of Computer Science degree from the University of Illinois Urbana-Champaign.
