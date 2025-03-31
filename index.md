@@ -46,7 +46,7 @@ OWASP Ottawa would not function without the generous support of time and effort 
 
 ## Chapter Supporters
 
-![UofO Logo](assets/images/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Rewind Logo](assets/images/rewindlogo.png)
+![UofO Logo](assets/images/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Rewind Logo](assets/images/rewindlogo.png) ![Managed Risk Logo](assets/images/managed-risk-whitebkgrnd.png)
 
 ## Currently Scheduled Events
 
