@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday March 19th, 2025
+## Wednesday April 16th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,9 +39,14 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* From SBOMs to xBOMs to Transperency: Problems Solvable by CycloneDB
+* "Sustainable OSINT for Security Professionals" with Micah Clark
 
 ### Abstract:
-We will discuss problems that are currently solvable by OWASP CycloneDX and its ecosystem (Vers, Purl, TEA) as well as use-cases that either don't have solutions or have inefficient solutions. The talk would include a brief demonstration of OWASP Dependency-Track showing real-world SBOM data from Reliza's open source Rebom project.
+Conducting OSINT is a vital part of any security program, but it's hard for professionals to see past the hype and fancy tools to produce credible, sustainable intelligence. In this talk, Micah Clark, Managing Director of Decision Space, will help you cut through the noise, rethink your approach to finding information, and build systems that keep you focused and curious without getting stuck.
+We’ll cover:
+- What being an OSINT professional looks like in 2025
+- How to balance structure and intuition for better results
+- The three key elements of OSINT: Context, Content, and Controls
+
 ### Speakers:
-**Pavel Shukhman** is the Co-Founder and CEO of Reliza. He leads company efforts in building a supply chain security system managing software and hardware metadata, including xBOMs, strict versioning, identification and various attachments. Previously, Pavel for more than ten years was leading software teams and supporting organizations in implementation of DevOps and DevSecOps best practices. He holds a Master of Computer Science degree from the University of Illinois Urbana-Champaign.
+**Micah Clark** is a Managing Director of Decision Space, a design firm specializing in OSINT technology and methodology development. He is also a graduate lecturer in Intelligence, Technology and War at the Norman Paterson School of International Affairs (NPSIA) at Carleton University. Micah’s career in professional OSINT spans more than a decade, with a focus on integrating OSINT into FVEY intelligence operations and designing, evaluating, and fielding OSINT tools and methods for defense and intelligence agencies. He has provided leadership to companies in Canada, the US, UK and Europe, and is a board member of the Canadian Association for Security and Intelligence Studies.
