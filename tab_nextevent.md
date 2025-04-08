@@ -48,5 +48,7 @@ We’ll cover:
 - How to balance structure and intuition for better results
 - The three key elements of OSINT: Context, Content, and Controls
 
+![April 2025 poster](assets/images/OWASPOttawa-April2025Poster.jpg)
+
 ### Speakers:
 **Micah Clark** is a Managing Director of Decision Space, a design firm specializing in OSINT technology and methodology development. He is also a graduate lecturer in Intelligence, Technology and War at the Norman Paterson School of International Affairs (NPSIA) at Carleton University. Micah’s career in professional OSINT spans more than a decade, with a focus on integrating OSINT into FVEY intelligence operations and designing, evaluating, and fielding OSINT tools and methods for defense and intelligence agencies. He has provided leadership to companies in Canada, the US, UK and Europe, and is a board member of the Canadian Association for Security and Intelligence Studies.
