@@ -6,6 +6,7 @@ site_side: true
 tags: ottawa
 level: 2
 region: North America
+state: Onatario
 country: Canada
 postal-code: K1A 0A6
 currency: cad
