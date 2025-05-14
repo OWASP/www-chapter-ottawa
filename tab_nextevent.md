@@ -46,7 +46,7 @@ SSH (Secure Shell) is one of the most useful tools for access to Linux systems a
 
 Attendees should walk away with a better understanding of how SSH multiplexing, agent forwarding, and tunneling work and are abused, as well as being armed with detection and mitigation strategies to help prevent impact to their systems.
 
-![May 2025 poster](assets/images/OWASPOttawa-Mao2025Poster.png)
+![May 2025 poster](assets/images/OWASPOttawa-May2025Poster.png)
 
 ### Speakers:
 **Logan MacLaren** is a Senior Red Team Engineer at GitHub where he spends his time finding out how to best break (and fix) security controls. When not hacking on GitHub itself, Logan can be found doing security research focused on open source projects or learning and refining skills with CTF challenges!
