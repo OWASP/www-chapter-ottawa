@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday April 16th, 2025
+## Wednesday May 21st, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,16 +39,14 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "Sustainable OSINT for Security Professionals" with Micah Clark
+* "SSH: Secretly Sharing Hosts" with Logan MacLaren
 
 ### Abstract:
-Conducting OSINT is a vital part of any security program, but it's hard for professionals to see past the hype and fancy tools to produce credible, sustainable intelligence. In this talk, Micah Clark, Managing Director of Decision Space, will help you cut through the noise, rethink your approach to finding information, and build systems that keep you focused and curious without getting stuck.
-We’ll cover:
-- What being an OSINT professional looks like in 2025
-- How to balance structure and intuition for better results
-- The three key elements of OSINT: Context, Content, and Controls
+SSH (Secure Shell) is one of the most useful tools for access to Linux systems and, as the name implies, is quite secure. Without exploiting any product vulnerabilities, theoretical or real, this talk explores ways that an attacker can abuse intentional SSH functionality to hijack existing sessions, bypass MFA and passphrase protections, avoid firewall-imposed limitations, masquerade as other users, and extend access to internal resources beyond the network perimeter.
 
-![April 2025 poster](assets/images/OWASPOttawa-April2025Poster.jpg)
+Attendees should walk away with a better understanding of how SSH multiplexing, agent forwarding, and tunneling work and are abused, as well as being armed with detection and mitigation strategies to help prevent impact to their systems.
+
+![May 2025 poster](assets/images/OWASPOttawa-Mao2025Poster.png)
 
 ### Speakers:
-**Micah Clark** is a Managing Director of Decision Space, a design firm specializing in OSINT technology and methodology development. He is also a graduate lecturer in Intelligence, Technology and War at the Norman Paterson School of International Affairs (NPSIA) at Carleton University. Micah’s career in professional OSINT spans more than a decade, with a focus on integrating OSINT into FVEY intelligence operations and designing, evaluating, and fielding OSINT tools and methods for defense and intelligence agencies. He has provided leadership to companies in Canada, the US, UK and Europe, and is a board member of the Canadian Association for Security and Intelligence Studies.
+**Logan MacLaren** is a Senior Red Team Engineer at GitHub where he spends his time finding out how to best break (and fix) security controls. When not hacking on GitHub itself, Logan can be found doing security research focused on open source projects or learning and refining skills with CTF challenges!
