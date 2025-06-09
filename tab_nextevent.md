@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday May 21st, 2025
+## Wednesday June 18th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,14 +39,19 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "SSH: Secretly Sharing Hosts" with Logan MacLaren
+* Hacking the Human Firewall, Insights from Social Engineering Corporations.
 
 ### Abstract:
-SSH (Secure Shell) is one of the most useful tools for access to Linux systems and, as the name implies, is quite secure. Without exploiting any product vulnerabilities, theoretical or real, this talk explores ways that an attacker can abuse intentional SSH functionality to hijack existing sessions, bypass MFA and passphrase protections, avoid firewall-imposed limitations, masquerade as other users, and extend access to internal resources beyond the network perimeter.
+Despite significant investments in cutting-edge security technologies, the human element remains the weakest link in cybersecurity. Attackers continuously exploit human behavior to bypass even the most advanced technology defences. This presentation will provide experiences of hands-on real-world social engineering campaigns, mirroring the tactics used by sophisticated threat actors.
+We will explore:
+• OSINT - Determining Targets and Entry Points
+• NIST Phish Scale - Evaluating the Content of a Phishing Email
+• Email Phishing - How Attackers Get SPAM Into the Corporate Inbox
+• Phone Social Engineering - Experiences in Impersonation and Taking Over Accounts
+• Physical Security - Outcomes from Just Hanging Around the Office
+Attendees will gain valuable insights into the psychology and strategies behind social engineering attacks, along with practical safeguards to strengthen their organization’s security posture against these evolving threats.
 
-Attendees should walk away with a better understanding of how SSH multiplexing, agent forwarding, and tunneling work and are abused, as well as being armed with detection and mitigation strategies to help prevent impact to their systems.
-
-![May 2025 poster](assets/images/OWASPOttawa-May2025Poster.png)
+![June 2025 poster](assets/images/OWASPOttawa-June2025Poster.png)
 
 ### Speakers:
-**Logan MacLaren** is a Senior Red Team Engineer at GitHub where he spends his time finding out how to best break (and fix) security controls. When not hacking on GitHub itself, Logan can be found doing security research focused on open source projects or learning and refining skills with CTF challenges!
+**KyleFalcon, Ahmed Shah, MathieuQuirion, and KevinTremblay** collectively serve as Security and Governance Risk and Compliance (GRC) analysts at Malleum Information Security in Ottawa, Canada. They are experienced in delivering cloud security assessments; leading red and purple team engagements; conducting penetration tests; performing digital forensics and incident response (DFIR); and carrying out physical security assessments as well as GRC activities for private sector clients and government agencies.
