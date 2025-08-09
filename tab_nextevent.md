@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday June 18th, 2025
+## Wednesday August 20th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,19 +39,22 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* Hacking the Human Firewall, Insights from Social Engineering Corporations.
+* "Doing More with Less: An Adaptive, Label-Efficient Approach to Fraud Detection from Day One" with Bahar Afshar
+* "Beyond APIs: MCP Security for AI Integrations" with Harsh Makwana
 
-### Abstract:
-Despite significant investments in cutting-edge security technologies, the human element remains the weakest link in cybersecurity. Attackers continuously exploit human behavior to bypass even the most advanced technology defences. This presentation will provide experiences of hands-on real-world social engineering campaigns, mirroring the tactics used by sophisticated threat actors.
-We will explore:
-• OSINT - Determining Targets and Entry Points
-• NIST Phish Scale - Evaluating the Content of a Phishing Email
-• Email Phishing - How Attackers Get SPAM Into the Corporate Inbox
-• Phone Social Engineering - Experiences in Impersonation and Taking Over Accounts
-• Physical Security - Outcomes from Just Hanging Around the Office
-Attendees will gain valuable insights into the psychology and strategies behind social engineering attacks, along with practical safeguards to strengthen their organization’s security posture against these evolving threats.
+### Abstracts:
+***Doing More with Less: An Adaptive, Label-Efficient Approach to Fraud Detection from Day One with Bahar Afshar***
+Detecting fraud in financial systems is like finding a needle in a haystack; fraudulent transactions are rare, labeling them is expensive, and sometimes, we don’t have any labels at all. In this talk, I’ll present a new approach that tackles these challenges by combining different learning strategies in an adaptive way. We’ll explore how to start detecting fraud even when labeled examples are extremely limited and how we can prioritize the most suspicious cases using smart, explainable tools. The goal is to make fraud detection not just more accurate but also more efficient and easier to understand for human experts. Whether you're working in cybersecurity, finance, or just curious about the future of AI-powered decision-making, this talk will offer insights into how we can do more with less when fighting financial crime.
 
-![June 2025 poster](assets/images/OWASPOttawa-June2025Poster.png)
+***Beyond APIs: MCP Security for AI Integrations with Harsh Makwana*.***
+The Model Context Protocol (MCP) is rapidly becoming the standard for LLM integration with external tools and data. However, this accelerated adoption has often sidelined crucial security hardening. This talk will directly address the inherent security challenges within MCP implementations, providing essential strategies to build robust, secure AI agents.
+
+
+![June 2025 poster](assets/images/OWASPOttawa-Aug2025Poster.png)
 
 ### Speakers:
-**KyleFalcon, Ahmed Shah, MathieuQuirion, and KevinTremblay** collectively serve as Security and Governance Risk and Compliance (GRC) analysts at Malleum Information Security in Ottawa, Canada. They are experienced in delivering cloud security assessments; leading red and purple team engagements; conducting penetration tests; performing digital forensics and incident response (DFIR); and carrying out physical security assessments as well as GRC activities for private sector clients and government agencies.
+***Bahar Emami Afshar*** is in the process of completing their Master’s in Computer Science at the University of Ottawa, specializing in AI. During this time they worked under the supervision of Dr. Paula Branco and completed a research internship at H3M Analytics Inc. Their research focuses on explainable AI, anomaly detection, and label-efficient learning, with a particular emphasis on fraud detection and financial crime. Over the past year, Bahar has published several first-author papers exploring adaptive and efficient strategies for detecting fraud in low-label and imbalanced scenarios. Bahar is passionate about building intelligent systems that are more transparent, trustworthy, and impactful in real-world settings.
+
+***Harsh Makwana***, M.Eng, is an Application Security Consultant at Software Secured with over 3 years of experience in penetration testing. An alumnus of the University of Ottawa, Harsh is a general technologist with a strong interest in the advancements of both cybersecurity and industrial robotics. Outside of work, he enjoys exploring photography and illustration as creative pursuits.
+
+
