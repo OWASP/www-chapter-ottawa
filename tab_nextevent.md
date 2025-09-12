@@ -39,22 +39,19 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "Doing More with Less: An Adaptive, Label-Efficient Approach to Fraud Detection from Day One" with Bahar Afshar
-* "Beyond APIs: MCP Security for AI Integrations" with Harsh Makwana
+* "Finally! Sufficient Logging and Monitoring (MCP Edition) with Robert Babaev" with Robert Babaev
+
 
 ### Abstracts:
-***Doing More with Less: An Adaptive, Label-Efficient Approach to Fraud Detection from Day One with Bahar Afshar***
-Detecting fraud in financial systems is like finding a needle in a haystack; fraudulent transactions are rare, labeling them is expensive, and sometimes, we don’t have any labels at all. In this talk, I’ll present a new approach that tackles these challenges by combining different learning strategies in an adaptive way. We’ll explore how to start detecting fraud even when labeled examples are extremely limited and how we can prioritize the most suspicious cases using smart, explainable tools. The goal is to make fraud detection not just more accurate but also more efficient and easier to understand for human experts. Whether you're working in cybersecurity, finance, or just curious about the future of AI-powered decision-making, this talk will offer insights into how we can do more with less when fighting financial crime.
+***Title: Finally! Sufficient Logging and Monitoring (MCP Edition) with Robert Babaev***
+Observability is a surprisingly important part of security, yet it's often the most neglected. In an age of AI, this can get costly, especially if you don't even know something is going wrong until you get 17,000 support tickets.
 
-***Beyond APIs: MCP Security for AI Integrations with Harsh Makwana*.***
-The Model Context Protocol (MCP) is rapidly becoming the standard for LLM integration with external tools and data. However, this accelerated adoption has often sidelined crucial security hardening. This talk will directly address the inherent security challenges within MCP implementations, providing essential strategies to build robust, secure AI agents.
+We'll go over some relatively painless approaches to getting set up with centralized logging, metrics, tracing, and a rudimentary SIEM. We'll also go over some other potential avenues for achieving better observability, and some tips and tricks for developers.
 
 
-![June 2025 poster](assets/images/OWASPOttawa-Aug2025Poster.png)
+![September 2025 poster](assets/images/OWASPOttawa-Sept2025Poster.png)
 
 ### Speakers:
-***Bahar Emami Afshar*** is in the process of completing their Master’s in Computer Science at the University of Ottawa, specializing in AI. During this time they worked under the supervision of Dr. Paula Branco and completed a research internship at H3M Analytics Inc. Their research focuses on explainable AI, anomaly detection, and label-efficient learning, with a particular emphasis on fraud detection and financial crime. Over the past year, Bahar has published several first-author papers exploring adaptive and efficient strategies for detecting fraud in low-label and imbalanced scenarios. Bahar is passionate about building intelligent systems that are more transparent, trustworthy, and impactful in real-world settings.
-
-***Harsh Makwana***, M.Eng, is an Application Security Consultant at Software Secured with over 3 years of experience in penetration testing. An alumnus of the University of Ottawa, Harsh is a general technologist with a strong interest in the advancements of both cybersecurity and industrial robotics. Outside of work, he enjoys exploring photography and illustration as creative pursuits.
+***Robert Babaev*** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci.
 
 
