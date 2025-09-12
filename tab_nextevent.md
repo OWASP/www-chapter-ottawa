@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday August 20th, 2025
+## Wednesday September 17th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
