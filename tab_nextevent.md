@@ -22,7 +22,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday September 17th, 2025
+## Thursday October 9th, 2025
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -39,19 +39,20 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "Finally! Sufficient Logging and Monitoring (MCP Edition) with Robert Babaev" with Robert Babaev
+* "Secure Code Is Critical Infrastructure - Hacking Policy for the Public Good" with Tanya Janca
 
 
 ### Abstracts:
-***Title: Finally! Sufficient Logging and Monitoring (MCP Edition) with Robert Babaev***
-Observability is a surprisingly important part of security, yet it's often the most neglected. In an age of AI, this can get costly, especially if you don't even know something is going wrong until you get 17,000 support tickets.
+***Title: Secure Code Is Critical Infrastructure - Hacking Policy for the Public Good***
+What happens when a security professional tries to help a government fix its insecure software? In this talk, I’ll share my story: from writing a secure coding policy and offering it to the Canadian government, lobbying elected officials, contacting agencies like CRA about their poor security practices—and being met with silence, deflection, or outright dismissal. I didn’t stop there. I wrote public letters, went on podcasts, published on Risky Biz, even got interviewed by CBC. But the institutions in charge of protecting our data? Either silence or “No comment, because security." This isn’t just a rant—it’s a roadmap. I’ll show you the secure coding guideline I created (free to reuse), explain why governments need public-facing AppSec policies, and outline how we can push for secure-by-default practices as citizens, hackers, and builders. Because secure code isn’t just for dev teams—it’s for democracy, privacy, and public safety. Let’s make it law. Let’s make it public.
 
-We'll go over some relatively painless approaches to getting set up with centralized logging, metrics, tracing, and a rudimentary SIEM. We'll also go over some other potential avenues for achieving better observability, and some tips and tricks for developers.
-
-
-![September 2025 poster](assets/images/OWASPOttawa-Sept2025Poster.png)
+![October 2025 poster](assets/images/OWASPOttawa-October2025Poster.png)
 
 ### Speakers:
-***Robert Babaev*** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci.
+***Tanya Janca*** aka SheHacksPurple, is the best-selling author of 'Alice and Bob Learn Secure Coding’ and 'Alice and Bob Learn Application Security’. She is currently the CEO and secure coding trainer at She Hacks Purple Consulting. Over her 28-year IT career she has won countless awards (including OWASP Lifetime Distinguished Member and Hacker of the Year), spoken all over the planet, and is a prolific blogger. Tanya has trained thousands of software developers and IT security professionals, via her online academies (We Hack Purple and Semgrep Academy), and her live training programs. Having performed counter-terrorism, led security for the 52nd Canadian general election, developed or secured countless applications, Tanya Janca is widely considered an international authority on the security of software.
+
+Advisor: Smithy, Katilyst
+Board Member: Forte Group
+Founder: We Hack Purple, OWASP DevSlop, #CyberMentoringMonday, WoSEC
 
 
