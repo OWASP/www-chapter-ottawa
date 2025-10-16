@@ -1,0 +1,29 @@
+currency: CAD
+leaders:
+  - name: Garth Boyd
+    email: garth.boyd@owasp.org
+    github: garthoid
+  - name: Melody Kelly
+    email: melody.kelly@owasp.org
+    github: pocketjawa
+  - name: Adam Lomas
+    email: adam.lomas@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Ontario
+  city: Ottawa
+  postal_code: K1A 0A6
+  latitude: 45.42243
+  longitude: -75.68343
+meetup_group: OWASP-Ottawa
+name: OWASP Ottawa
+repositories:
+  - name: www-chapter-ottawa
+    url: https://github.com/OWASP/www-chapter-ottawa
+    description: OWASP Foundation Web Repository for the Ottawa Ontario Chapter
+tags:
+  - ottawa
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-ottawa
