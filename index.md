@@ -57,7 +57,6 @@ OWASP Ottawa would not function without the generous support of time and effort 
 ## Connect with us on Social Media and on Slack
 
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Slack link](https://join.slack.com/t/owaspottawa/shared_invite/zt-1to3abst2-uDTXE_jEp_ywp0H7fP2Lbw)
-* Follow us on Twitter: [@OWASP_Ottawa](https://twitter.com/OWASP_Ottawa)
 * Follow us on Mastodon: [@OWASP_Ottawa@infosec.exchange](https://infosec.exchange/@OWASP_Ottawa)
 * Follow us on Bluesky: [@owaspottawa.bsky.social](https://bsky.app/profile/owaspottawa.bsky.social)
 * Follow us on LinkedIn: [OWASP Ottawa LinkedIN page](https://www.linkedin.com/company/owasp-ottawa)
