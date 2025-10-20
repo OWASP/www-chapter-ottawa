@@ -27,3 +27,12 @@ tags:
   - ontario
   - canada
 website: https://owasp.org/www-chapter-ottawa
+social_media:
+  - platform: bluesky
+    url: https://bsky.app/profile/owaspottawa.bsky.social
+  - platform: youtube
+    url: https://www.youtube.com/@OWASP_Ottawa
+  - platform: linkedin
+    url: https://www.linkedin.com/company/owasp-ottawa/
+  - platform: mastodon
+    url: https://infosec.exchange/@OWASP_Ottawa
