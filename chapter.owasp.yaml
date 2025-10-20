@@ -14,7 +14,7 @@ location:
   region: Ontario
   city: Ottawa
   postal_code: K1N 9B4
-  latitude: 45.42011806603764,
+  latitude: 45.42011806603764
   longitude: -75.68049472395994
 meetup_group: OWASP-Ottawa
 name: OWASP Ottawa
