@@ -24,6 +24,6 @@ repositories:
     description: OWASP Foundation Web Repository for the Ottawa Ontario Chapter
 tags:
   - ottawa
-  - custom-tag-1
-  - custom-tag-2
+  - ontario
+  - canada
 website: https://owasp.org/www-chapter-ottawa
