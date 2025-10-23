@@ -17,7 +17,7 @@ meetup-group: OWASP-Ottawa
 
 ## Hello Ottawa and the World, Welcome to your OWASP Ottawa Chapter\!<br/> 
 
-![OWASP Ottawa Image](assets/images/OWASPOttawa-meetup-image.png?raw=true)
+![OWASP Ottawa Image](assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
 
 ## Who We Are
 
@@ -41,13 +41,13 @@ For updates, events, membership; please visit our meetup page: [OWASP Ottawa Mee
 ## Volunteers
 
 OWASP Ottawa would not function without the generous support of time and effort from our volunteers. If you would like to get more involved we would love to have your help.
-![OWASP Ottawa CTF Volunteers 2024](assets/images/OWASPOttawaCTF2024Volunteers.png?raw=true)
+![OWASP Ottawa CTF Volunteers 2024](assets/images/events/OWASPOttawaCTF2024Volunteers.png?raw=true)
 
 > Contact us on any of our socials or Slack if you wish to volunteer.
 
 ## Chapter Supporters
 
-![UofO Logo](assets/images/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Rewind Logo](assets/images/rewindlogo.png) ![Managed Risk Logo](assets/images/managed-risk-whitebkgrnd.png)
+![UofO Logo](assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Rewind Logo](assets/images/supporters/rewindlogo.png) ![Managed Risk Logo](assets/images/supporters/managed-risk-whitebkgrnd.png)
 
 ## Currently Scheduled Events
 

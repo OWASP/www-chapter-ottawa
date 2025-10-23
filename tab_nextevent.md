@@ -32,7 +32,7 @@ In-Person Location:
 University of Ottawa
 Room 117
 
-![Workshop Poster](assets/images/OWASPOttawaPentest101Workshop-2025.png)
+![Workshop Poster](assets/images/posters/OWASPOttawaPentest101Workshop-2025.png)
 
 ### Abstract:
 ***Title:*** OWASP Ottawa Pentest 101 Workshop: An introduction to Application Pentesting using OWASP Juice-Shop

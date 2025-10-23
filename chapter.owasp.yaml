@@ -22,11 +22,19 @@ repositories:
   - name: www-chapter-ottawa
     url: https://github.com/OWASP/www-chapter-ottawa
     description: OWASP Foundation Web Repository for the Ottawa Ontario Chapter
+logo:
+  - medium: "https://github.com/OWASP/www-chapter-ottawa/blob/master/.github/www/assets/images/logos/owasp-ottawa-logo-colour.png"
+  - medium: "https://github.com/OWASP/www-chapter-ottawa/blob/master/.github/www/assets/images/logos/owasp-ottawa-banner-colour.png"
 tags:
   - ottawa
   - ontario
   - canada
 website: https://owasp.org/www-chapter-ottawa
+community:
+  - platform: slack
+    name: Slack
+    url: https://owaspottawa.slack.com/
+    description: 'OWASP Ottawa Slack'
 social_media:
   - platform: bluesky
     url: https://bsky.app/profile/owaspottawa.bsky.social
