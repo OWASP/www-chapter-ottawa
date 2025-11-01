@@ -44,6 +44,7 @@ YouTube Live Stream Link: TBA
 
 ### Abstracts:
 ***Title: Your Trusted Hardware Isn't: Why Silicon Belongs In The Threat Model***
+
 Modern security stacks assume that hardware is honest: CPUs execute the correct instructions. random number generators are truly random, and "secure enclaves" are actually secure. But none of these assumptions are guaranteed -- especially when today's chips are designed by dozens of third-party IP vendors and fabricated across a global supply chain.
 This talk explores hardware Trojans: malicious modifications buried in silicon that can leak secrets, weaken cryptography, or silently bypass your best defenses. We'll follow a concrete example - sabotaging a CPU's true random number generator -- and see how a few altered transistors can undermine TLS, disk encryption, and authentication without leaving software-visible evidence. Taking a look at recent red-team vs. blue-team research on real chips, we'll then show what it takes for hardware defenders to detect and counteract such threats in practice. We'll end with what software and security teams can do right now to treat silicon as part of the threat model, not a trusted black box. If your threat model ends at the instruction set, this talk will extend it to the transistors underneath -- without requiring you to be a chip designer.
 
