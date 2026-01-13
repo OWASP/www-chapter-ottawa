@@ -46,7 +46,6 @@ YouTube Live Stream Link: TBA
 
 SameSite cookies are often relied upon too heavily to prevent cross-site request forgery, yet, due to browser implementations, these cookies can be included in unexpected requests. This talk demonstrates novel techniques to attach SameSite=Strict cookies to GET requests originating from another site, including a Google Chrome vulnerability (CVE-2025-8581) discovered while researching these methods. This material aims to help researchers identify insecure behaviours, as well as teach developers how to avoid them.
 
-
 ![January 2026 poster](assets/images/posters/OWASPOttawa-January2026Poster.jpg)
 
 ### Speaker:
