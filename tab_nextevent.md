@@ -39,7 +39,7 @@ YouTube Live Stream Link: TBA
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "Your Trusted Hardware Isn't: Why Silicon Belongs In The Threat Model" with René Walendy
+* "SameSite... or not? Bypassing SameSite cookie protections in modern browsers" with Vincent Dragnea
 
 
 ### Abstract:
