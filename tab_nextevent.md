@@ -14,11 +14,6 @@ meetup-group: OWASP-Ottawa
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
----
-
-## OWASP Ottawa Chapter upcoming events can be found on Meetup:
-
-[https://www.meetup.com/OWASP-Ottawa/](https://www.meetup.com/OWASP-Ottawa)
 
 ---
 
