@@ -14,7 +14,7 @@ meetup-group: OWASP-Ottawa
 
 The following are the list of organizations that have generously supported the Ottawa Chapter:
 
-![UofO Logo](assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Software Secured] (assets/images/supporters/SoftwareSecured_Brand_Logo_2021_Colour.png) ![Managed Risk Logo](assets/images/supporters/managed-risk-whitebkgrnd.png) ![PacketLabs Logo](assets/images/supporters/PacketlabsLogo-whitebkgrnd.png) ![Devious Plan Logo](assets/images/supporters/devious-plan-logo-small-rev.png)
+![UofO Logo](assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Software Secured](assets/images/supporters/SoftwareSecured_Brand_Logo_2021_Colour.png) ![Managed Risk Logo](assets/images/supporters/managed-risk-whitebkgrnd.png) ![PacketLabs Logo](assets/images/supporters/PacketlabsLogo-whitebkgrnd.png) ![Devious Plan Logo](assets/images/supporters/devious-plan-logo-small-rev.png)
 
 
 ## How to Support OWASP Ottawa
