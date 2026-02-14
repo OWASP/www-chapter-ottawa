@@ -17,7 +17,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday January 21st, 2026
+## Wednesday February 18th, 2026
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -29,19 +29,19 @@ Room 117
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
-YouTube Live Stream Link: TBA
+YouTube Live Stream Link: https://www.youtube.com/watch?v=7ytDY5GmAtM
 
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "SameSite... or not? Bypassing SameSite cookie protections in modern browsers" with Vincent Dragnea
+* "E-Waste? In This Economy? Building a testing lab at home on the cheap." with Fennix
 
 
 ### Abstract:
 
-SameSite cookies are often relied upon too heavily to prevent cross-site request forgery, yet, due to browser implementations, these cookies can be included in unexpected requests. This talk demonstrates novel techniques to attach SameSite=Strict cookies to GET requests originating from another site, including a Google Chrome vulnerability (CVE-2025-8581) discovered while researching these methods. This material aims to help researchers identify insecure behaviours, as well as teach developers how to avoid them.
+With cloud pricing marching ever higher and the environment becoming an afterthought in the AI boom, being able to learn on the cheap is ever critical. In this presentation we'll demo how to build out a testing lab based on Open Source solutions and old hardware you might have at the bottom of a closet, as well as provide some resources to help make that happen.
 
-![January 2026 poster](assets/images/posters/OWASPOttawa-January2026Poster.jpg)
+![February 2026 poster](assets/images/posters/OWASPOttawa-Febraury2026Poster.png)
 
 ### Speaker:
-***Vincent Dragnea*** is an application security consultant at Forward Security. He has 7 years of experience as a security researcher, since making the leap to cybersecurity from a software development background. Always eager to learn more, and OSWE-certified, Vincent loves to find creative exploits before they are weaponized, to make the internet a safer place.
+***Fennix***
