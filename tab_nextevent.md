@@ -41,7 +41,7 @@ YouTube Live Stream Link: https://www.youtube.com/watch?v=7ytDY5GmAtM
 
 With cloud pricing marching ever higher and the environment becoming an afterthought in the AI boom, being able to learn on the cheap is ever critical. In this presentation we'll demo how to build out a testing lab based on Open Source solutions and old hardware you might have at the bottom of a closet, as well as provide some resources to help make that happen.
 
-![February 2026 poster](assets/images/posters/OWASPOttawa-Febraury2026Poster.png)
+![February 2026 poster](assets/images/posters/OWASPOttawa-February2026Poster.png)
 
 ### Speaker:
 ***Fennix***
