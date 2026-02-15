@@ -44,4 +44,4 @@ With cloud pricing marching ever higher and the environment becoming an aftertho
 ![February 2026 poster](assets/images/posters/OWASPOttawa-February2026Poster.png)
 
 ### Speaker:
-***Fennix***
+***Fennix (he/him)***: After a ten year career in a variety of technical roles, when the opportunity to jump into a pentesting role came up Fennix jumped at the chance. That was nearly a decade ago and in the time since he has several hundred CVEs to his name and numerous strong opinions about the state of the industry. Over that time he created and delivered numerous presentations and training courses for a variety of audiences ranging from security focals and developers to administrative and sales staff to, well, just about anyone. For the past five years he has been part of the core organizing committee and core challenge development team for CyberSci, Canada's post-secondary cybersecurity challenge.
