@@ -17,7 +17,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday February 18th, 2026
+## Wednesday March 18th, 2026
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -34,14 +34,16 @@ YouTube Live Stream Link: https://www.youtube.com/watch?v=7ytDY5GmAtM
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "E-Waste? In This Economy? Building a testing lab at home on the cheap." with Fennix
+* "We know what you hide in JS" with Garth Boyd
 
 
 ### Abstract:
 
-With cloud pricing marching ever higher and the environment becoming an afterthought in the AI boom, being able to learn on the cheap is ever critical. In this presentation we'll demo how to build out a testing lab based on Open Source solutions and old hardware you might have at the bottom of a closet, as well as provide some resources to help make that happen.
+Client-side JavaScript plays a crucial role in the development and functionality of Single Page Applications (SPAs) prevalent in modern web applications. Unfortunately, JavaScript code delivered to the browser can contain sensitive information due to development error, oversight, or misunderstanding. These details can provide attackers with a variety of insights that can be leveraged to exploit vulnerabilities in a web application. This presentation delves into the techniques and tools essential for performing comprehensive reconnaissance on client-side JavaScript files, aiming to uncover hidden endpoints, sensitive information, and potential security vulnerabilities. Attendees will gain practical knowledge on the importance of reconnaissance, the types of tools available, and how to effectively analyze client-side JavaScript files to gather actionable intelligence. This presentation is ideal for cybersecurity professionals, web developers, and penetration testers who are keen to deepen their understanding of client-side security. It provides valuable insights for anyone involved in securing modern web applications and protecting sensitive data from unauthorized access.
 
-![February 2026 poster](assets/images/posters/OWASPOttawa-February2026Poster.png)
+
+![March 2026 poster](assets/images/posters/OWASPOttawa-March2026Poster.png)
 
 ### Speaker:
-***Fennix (he/him)***: After a ten year career in a variety of technical roles, when the opportunity to jump into a pentesting role came up Fennix jumped at the chance. That was nearly a decade ago and in the time since he has several hundred CVEs to his name and numerous strong opinions about the state of the industry. Over that time he created and delivered numerous presentations and training courses for a variety of audiences ranging from security focals and developers to administrative and sales staff to, well, just about anyone. For the past five years he has been part of the core organizing committee and core challenge development team for CyberSci, Canada's post-secondary cybersecurity challenge.
+***Garth Boyd***: Senior Application Security/Cloud Security Architect specializing in Secure Software Architecture and security research with experience supporting development organizations. Founder of DeviousPlan, a boutique security firm specializing in Security Architecture, Threat Modelling, Securing the public cloud, Security Training and Penetration Testing. A lifelong learner who enjoys crafting solutions to interesting and tough problems and thinking of six impossible things before breakfast. Garth also volunteers for the Ottawa OWASP chapter
+
