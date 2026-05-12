@@ -17,7 +17,7 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday April 15th, 2026
+## Wednesday May 20th, 2026
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -25,7 +25,7 @@ Welcome to our in-Person Meetup at the University of Ottawa
 In-Person Location:
 150 Louis-Pasteur Private, Ottawa,
 University of Ottawa
-Room 580
+Room 117
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
@@ -34,20 +34,22 @@ YouTube Live Stream Link: https://www.youtube.com/watch?v=TXpb7ooZZRg
 6:00 PM EST Arrival, setup, mingle, PIZZA!!!
 6:30 PM EST Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* "Threat Modeling in Practice: From Diagram to Defense" with Rodrigo Rocha
-
+* Building Opportunities Before You Feel Ready (The Ada Sisterhood)" with Kira Evans
+* “Shai-Hulud: Anatomy of a Self-Replicating Worm (A Beginner’s Walkthrough of Modern Malware Analysis)” with Jainil Malaviya
 
 ### Abstract:
 
-Modern development teams often view Threat Modeling as heavy, theoretical, or compliance-driven — and as a result, it gets skipped. This session introduces a practical, lightweight approach to Threat Modeling that fits directly into agile workflows.
-Using a real-world healthcare portal example, we walk step-by-step from drawing a simple data flow diagram to identifying critical assets, mapping real attack scenarios (via MITRE CAPEC), linking root causes (CWE), and translating them into testable security requirements using OWASP ASVS. The session demonstrates how to turn abstract risks into concrete sprint tickets developers can actually implement.
-We also explore why Threat Modeling frequently fails in organizations and how Security Champions programs can scale security culture across engineering teams.
+***Building Opportunities Before You Feel Ready (The Ada Sisterhood) with Kira Evans***
+This talk shares the story of how The Ada Sisterhood grew from a small student club into community partnerships, networking events, nonprofit tech projects, and hackathons across Ottawa’s tech community. Kira will speak about the power of volunteering, building connections, and taking action before feeling fully prepared, along with how community involvement opened unexpected doors in tech leadership and event organizing.
+
+***Shai-Hulud: Anatomy of a Self-Replicating Worm (A Beginner’s Walkthrough of Modern Malware Analysis) with Jainil Malaviya***
+In September 2025, a self-replicating worm called Shai-Hulud compromised over 500 npm packages, with no humans in the loop. By November, follow-on waves had pushed stolen secrets to more than 25,000 public GitHub repos. This talk walks through how a malware analyst would read it: static analysis, YARA detection, dynamic analysis, and a deep dive into Shai-Hulud's credential harvesting and self-replication mechanics. If you've never opened a malware sample but you've always wanted to, this hour is for you.
 
 
-![April 2026 poster](assets/images/posters/OWASPOttawa-April2026Poster.png)
+![May 2026 poster](assets/images/posters/OWASPOttawa-May2026Poster.jpg)
 
 ### Speaker:
-***Rodrigo Rocha*** is a Security Enablement Leader and GRC Consultant with over 15 years of experience bridging the gap between security and application security. He specializes in building Security Champions Programs that empower developers to ship faster and more securely—without slowing down innovation.
-Rodrigo spent eight years as an Application Security Specialist before transitioning into governance and compliance, giving him a rare ability to communicate fluently with both developers and auditors. He has designed and scaled Security Champions Programs across 200+ engineering teams, trained over 6,000 developers at Brazil's largest companies.
-His compliance expertise spans SOC 2 Type I/II, ISO 27001, NIST CSF, and CIS Controls—achieving audit success while maintaining engineering velocity, including clean SOC 2 audits with 45% less preparation time through automation. Rodrigo has also published thought leadership with the CNCF on cloud-native security approaches.
+***Kira Evans*** recently completed the Computer Programming program at Algonquin College and is the founder of The Ada Sisterhood, a student initiative created to help students build confidence, connections, and real-world experience in tech. What started as a small campus club grew into partnerships with nonprofits, networking events, hackathons, and leadership opportunities across the Ottawa tech community. Kira currently serves on the 2026 Board of Directors for JCI Ottawa as Director of External Relations.
 
+***Jainil Malaviya*** is a Security Engineer at Nokia Canada Inc and an April 2026 graduate of Northeastern University. Based in Ottawa, he is OSCP+ certified, serves as the OffSec Canada Chapter Ambassador, and is a member of the Cloud Village team that runs at DEF CON, RSAC, and major BSides events.
+Attendees
