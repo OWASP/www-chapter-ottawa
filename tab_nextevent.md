@@ -17,10 +17,10 @@ meetup-group: OWASP-Ottawa
 
 ---
 
-## Wednesday May 20th, 2026
+## Wednesday June 17th, 2026
 ### Details
 
-Welcome to our in-Person Meetup at the University of Ottawa
+**Welcome to our in-Person Meetup at the University of Ottawa**
 
 In-Person Location:
 150 Louis-Pasteur Private, Ottawa,
@@ -29,27 +29,22 @@ Room 117
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
-YouTube Live Stream Link: https://www.youtube.com/watch?v=6tAp340iDVI
+**YouTube Live Stream Link:** TBA
 
-6:00 PM EST Arrival, setup, mingle, PIZZA!!!
-6:30 PM EST Technical Talks
+**6:00 PM EST** Arrival, setup, mingle, PIZZA!!!
+
+**6:30 PM EST** Technical Talks:
 * Introduction to OWASP Ottawa, Public Announcements.
-* Building Opportunities Before You Feel Ready (The Ada Sisterhood)" with Kira Evans
-* “Shai-Hulud: Anatomy of a Self-Replicating Worm (A Beginner’s Walkthrough of Modern Malware Analysis)” with Jainil Malaviya
+* **"Blackout at Scale: A Multi-Perspective Study of Iran's Internet Shutdown"** with Ali Sadeghi Jahromi
 
 ### Abstract:
 
-***Building Opportunities Before You Feel Ready (The Ada Sisterhood) with Kira Evans***
-This talk shares the story of how The Ada Sisterhood grew from a small student club into community partnerships, networking events, nonprofit tech projects, and hackathons across Ottawa’s tech community. Kira will speak about the power of volunteering, building connections, and taking action before feeling fully prepared, along with how community involvement opened unexpected doors in tech leadership and event organizing.
+***Blackout at Scale: A Multi-Perspective Study of Iran's Internet Shutdown with Ali Sadeghi Jahromi***
 
-***Shai-Hulud: Anatomy of a Self-Replicating Worm (A Beginner’s Walkthrough of Modern Malware Analysis) with Jainil Malaviya***
-In September 2025, a self-replicating worm called Shai-Hulud compromised over 500 npm packages, with no humans in the loop. By November, follow-on waves had pushed stolen secrets to more than 25,000 public GitHub repos. This talk walks through how a malware analyst would read it: static analysis, YARA detection, dynamic analysis, and a deep dive into Shai-Hulud's credential harvesting and self-replication mechanics. If you've never opened a malware sample but you've always wanted to, this hour is for you.
+This talk presents the Internet shutdowns in Iran during January and March 2026 using a multi-plane measurement approach that combines passive Internet-wide scanning, active probing, and BGP routing analysis. We show how these disruptions were enforced through centralized forwarding-plane null-routing while BGP announcements remained largely unchanged, effectively hiding outages from traditional routing-based monitoring. Using global scan data, we analyze how visible host populations collapse and fluctuate during shutdown periods, including apparent anomalies that reflect measurement artifacts rather than true recovery. Through active probing of thousands of Iranian prefixes from multiple global vantage points, we find that most infrastructure becomes consistently unreachable in a centrally coordinated manner, with only a small subset of networks remaining accessible. We further identify systematic structural exemptions, including academic networks and major CDN infrastructure, that exhibit distinct behavior under shutdown conditions. Together, these results demonstrate that different measurement perspectives provide complementary but individually limited views of large-scale Internet control, highlighting the need for a multi-plane approach to accurately interpret modern Internet shutdowns.
 
 
-![May 2026 poster](assets/images/posters/OWASPOttawa-May2026Poster.jpg)
+![June 2026 poster](assets/images/posters/OWASPOttawa-June2026Poster.jpg)
 
 ### Speaker:
-***Kira Evans*** recently completed the Computer Programming program at Algonquin College and is the founder of The Ada Sisterhood, a student initiative created to help students build confidence, connections, and real-world experience in tech. What started as a small campus club grew into partnerships with nonprofits, networking events, hackathons, and leadership opportunities across the Ottawa tech community. Kira currently serves on the 2026 Board of Directors for JCI Ottawa as Director of External Relations.
-
-***Jainil Malaviya*** is a Security Engineer at Nokia Canada Inc and an April 2026 graduate of Northeastern University. Based in Ottawa, he is OSCP+ certified, serves as the OffSec Canada Chapter Ambassador, and is a member of the Cloud Village team that runs at DEF CON, RSAC, and major BSides events.
-Attendees
+**Ali Sadeghi Jahromi** is a Lead Cybersecurity Researcher at the Cyber Security Evaluation and Assurance (CyberSEA) Research Lab at Carleton University, where he collaborates with General Dynamics Mission Systems-Canada on applied cybersecurity research. Ali received both his Master’s degree and PhD in Computer Science from Carleton University, specializing in Internet security. His research focuses on Internet measurement, secure protocol design and evaluation, threat modelling, and the application of artificial intelligence in cybersecurity.
