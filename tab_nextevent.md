@@ -29,7 +29,7 @@ Room 117
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
-**YouTube Live Stream Link:** TBA
+**YouTube Live Stream Link:** https://www.youtube.com/watch?v=0LnNxjSNLl8
 
 **6:00 PM EST** Arrival, setup, mingle, PIZZA!!!
 
