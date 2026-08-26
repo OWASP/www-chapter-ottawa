@@ -14,6 +14,11 @@ meetup-group: OWASP-Ottawa
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
+**Note:**
+
+**OWASP Ottawa is on break for the summer and will return September 16th for the next meetup.**
+
+**Please also see our event "OWASP Ottawa Day 2026" which celebrates 25 years of OWASP**
 
 ---
 
