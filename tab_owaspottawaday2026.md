@@ -12,7 +12,7 @@ meetup-group: OWASP-Ottawa
 
 # OWASP Ottawa Day 2026
 
-![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/events/OWASPOttawaDay2026.png)
+![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.png)
 
 **Presentations, Workshops, and Mentorship**
 
@@ -77,9 +77,22 @@ practical exercises rather than sitting through slides.
 Mentoring sessions connect attendees with experienced security practitioners for career guidance,
 resume and portfolio feedback, and advice on breaking into or growing within application security.
 
-- Open to students, career changers, and early-career practitioners
+```
+Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students
+and the community?
+```
+[Mentor signup form](https://forms.cloud.microsoft/r/GaJ56qGZxA)
+
+- Those seeking a session with mentor is open to students, career changers, and early-career practitioners
 - **Room:** STM 464
 - Format, sign-up process, and mentor list: TBA
+
+
+## Volunteering
+
+We are looking for volunteers to help with all aspects of making this a successful and educational event for the community.
+If you wish to give back to your community we would love your help. 
+[Volunteer Sign Up Form](https://forms.gle/JqiA1Ak6fPrXNsHq6)
 
 ---
 
@@ -139,4 +152,4 @@ For questions about the event, sponsorship, or speaking, contact the OWASP Ottaw
 
 
 
-![OWASP Ottawa Day 2026 Footer](assets/images/events/Linkedin%20cover%403x-100.jpg)
+![OWASP Ottawa Day 2026 Footer](assets/images/Linkedin%20cover%403x-100.jpg)
