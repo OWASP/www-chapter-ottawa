@@ -105,7 +105,7 @@ the program starting at **8:45 AM**.
 |---|---|
 | 8:00 AM | Doors open — on-site registration and check-in |
 | 8:45 AM | Welcome and opening remarks |
-| 9:00 – 9:30 AM | Keynote — speaker TBA |
+| 9:00 – 9:30 AM |  TBA |
 | 9:30 AM | Speaker track sessions begin — STM 117 |
 | 9:30 AM | OSINT workshop begins — STM 564 |
 | TBA | Mentoring sessions — STM 464 |
