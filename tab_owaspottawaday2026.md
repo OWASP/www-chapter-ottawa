@@ -12,7 +12,7 @@ meetup-group: OWASP-Ottawa
 
 # OWASP Ottawa Day 2026
 
-![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.png)
+![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/events/OWASPOttawaDay2026.png)
 
 **Presentations, Workshops, and Mentorship**
 
@@ -152,4 +152,4 @@ For questions about the event, sponsorship, or speaking, contact the OWASP Ottaw
 
 
 
-![OWASP Ottawa Day 2026 Footer](assets/images/Linkedin%20cover%403x-100.jpg)
+![OWASP Ottawa Day 2026 Footer](assets/images/events/Linkedin%20cover%403x-100.jpg)
